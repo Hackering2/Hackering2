@@ -2,7 +2,7 @@ import { kv } from '@vercel/kv';
 import bcrypt from 'bcryptjs';
 
 // ⚠️ REMPLACEZ CET E-MAIL par le vôtre — ce sera votre compte administrateur
-const ADMIN_EMAIL = 'VOTRE-EMAIL@exemple.com';
+const ADMIN_EMAIL = 'toavinarakotoharimalala@gmail.com';
 
 export default async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
