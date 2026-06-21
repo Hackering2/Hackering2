@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.vercel.hackering2.twa",
+    "sha256_cert_fingerprints": ["65:FB:5A:35:90:D6:58:8E:A4:8B:1A:27:1D:32:CB:F8:A7:7A:C2:FE:F3:32:48:B9:A4:AC:0E:99:D6:72:E9:C2"]
+  }
+}]
